@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm Irin Thomas
 
-<!--
-**Irin-Thomas/Irin-Thomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc in Data Analytics | 💡 Machine Learning & Deep Learning | 📊 Statistical Modelling  
+🧠 AI Applications | 💻 Python & R Enthusiast | 📍 London, UK  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I am a postgraduate Data Analytics student with a strong foundation in machine learning, deep learning, and AI-based modelling. My background spans both technical roles in IT and academic research in predictive analytics and healthcare imaging. I enjoy turning complex data into actionable insights through models, dashboards, and applications.
+
+I bring hands-on experience in:
+- Machine learning (classification, clustering, forecasting)  
+- Deep learning (CNNs for medical image analysis, uncertainty estimation)  
+- AI-driven tools and applications (NLP, predictive apps, decision systems)  
+- Building scalable data pipelines and BI dashboards for business intelligence  
+- Communicating insights clearly for business or operational impact  
+
+---
+
+## 🛠️ Skills & Tools
+
+**Languages**: Python, R, SQL, Java (basic)  
+**ML/DL Frameworks**: Scikit-learn, TensorFlow, Keras, OpenCV  
+**AI Applications**: CNNs, NLP, Reinforcement Learning, Generative AI, Uncertainty Quantification  
+**Data Visualisation**: Power BI, Matplotlib, Seaborn  
+**Big Data**: Apache Hadoop, ETL Pipelines  
+**Other Tools**: Excel, Solver, Git, Azure AD, Workday Reporting
+
+## 📚 Featured Projects
+
+### 📌 [HR Attrition Prediction Dashboard](https://github.com/irinthomas/hr-attrition-dashboard)
+🔧 *Tools: Python, Power BI, Logistic Regression*  
+Built an interactive dashboard to predict employee attrition using logistic regression. Analysed HR data to identify key risk factors and visualised insights in Power BI. Helped inform HR retention strategies through data storytelling.
+
+### 📌 [Portfolio Risk Analysis](https://github.com/irinthomas/portfolio-risk-analysis)
+🔧 *Tools: R, Solver, GARCH, Value at Risk (VaR)*  
+Modelled and analysed portfolio risk using GARCH and VaR methods. Optimised asset allocation based on historical volatility. Visualised financial risk to support evidence-based investment decisions.
+
+### 📌 [Big Data Warehouse Design](https://github.com/irinthomas/big-data-warehouse)
+🔧 *Tools: Apache Hadoop, ETL*  
+Designed and implemented a scalable big data warehouse. Created ETL pipelines for high-volume data processing, improving analytics performance and enabling faster decision-making for large-scale business operations.
+
+### 📌 [Online Shoppers’ Purchase Prediction](https://github.com/irinthomas/ecommerce-purchase-prediction)
+🔧 *Tools: Python, Random Forest, Decision Tree, K-Means Clustering*  
+Analysed e-commerce clickstream data to predict purchase intent with 87% accuracy. Applied clustering to discover browsing patterns and enhance customer targeting for marketing campaigns.
+
+### 📌 [Marketing Campaign Classifier App](https://github.com/irinthomas/marketing-campaign-predictor)
+🔧 *Tools: Python, Logistic Regression, Sentiment Analysis*  
+Built a predictive app that classifies high-value customers from marketing campaign data. Performed data cleaning, feature engineering, and deployed a logistic regression model for real-time scoring.
+
+### 📌 [Statistical Modelling & Forecasting](https://github.com/irinthomas/statistical-health-modelling)
+🔧 *Tools: R, GAMLSS, LMS, BCCG, BCT*  
+Performed statistical analysis on health datasets. Created BMI models, centile curves for grip strength, and regression models to predict body fat %. Enhanced understanding of growth and health patterns in youth populations.
+
+### 📌 [ICH Detection & Uncertainty Quantification](https://github.com/irinthomas/ich-detection-uncertainty)
+🔧 *Tools: Python, CNN, Monte Carlo Dropout, CQ500 Dataset*  
+Developing a deep learning model to detect hemorrhages in CT brain scans with uncertainty estimation. Using Monte Carlo Dropout to generate confidence scores, supporting explainable decision-making in medical imaging.
+## 📫 Let’s Connect!
+
+- 🔗 [LinkedIn] (https://www.linkedin.com/in/irin-mary-thomas)
+- 📧 irinthomas0@gmail.com
