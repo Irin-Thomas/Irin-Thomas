@@ -25,7 +25,7 @@ I bring hands-on experience in:
 **AI Applications**: CNNs, NLP, Reinforcement Learning, Generative AI, Uncertainty Quantification  
 **Data Visualisation**: Power BI, Matplotlib, Seaborn  
 **Big Data**: Apache Hadoop, ETL Pipelines  
-**Other Tools**: Excel, Solver, Git, Azure AD, Workday Reporting
+**Other Tools**: Excel, Azure AD, Workday Reporting
 
 ## 📚 Featured Projects
 
