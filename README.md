@@ -29,7 +29,7 @@ I bring hands-on experience in:
 
 ## 📚 Featured Projects
 
-### 📌 [HR Attrition Prediction Dashboard][https://github.com/irinthomas/hr-attrition-dashboard](https://github.com/Irin-Thomas/HR-Attrition-Prediction-Dashboard/tree/main]
+### 📌 [HR Attrition Prediction Dashboard](https://github.com/Irin-Thomas/HR-Attrition-Prediction-Dashboard/tree/main)
 🔧 *Tools: Python, Power BI, Logistic Regression*  
 Built an interactive dashboard to predict employee attrition using logistic regression. Analysed HR data to identify key risk factors and visualised insights in Power BI. Helped inform HR retention strategies through data storytelling.
 
