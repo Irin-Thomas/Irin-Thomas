@@ -53,10 +53,6 @@ Built a predictive app that classifies high-value customers from marketing campa
 🔧 *Tools: R, GAMLSS, LMS, BCCG, BCT*  
 Performed statistical analysis on health datasets. Created BMI models, centile curves for grip strength, and regression models to predict body fat %. Enhanced understanding of growth and health patterns in youth populations.
 
-### 📌 [ICH Detection & Uncertainty Quantification](https://github.com/irinthomas/ich-detection-uncertainty)
-🔧 *Tools: Python, CNN, Monte Carlo Dropout, CQ500 Dataset*  
-Developing a deep learning model to detect hemorrhages in CT brain scans with uncertainty estimation. Using Monte Carlo Dropout to generate confidence scores, supporting explainable decision-making in medical imaging.
-## 📫 Let’s Connect!
 
 - 🔗 [LinkedIn] (https://www.linkedin.com/in/irin-mary-thomas)
 - 📧 irinthomas0@gmail.com
