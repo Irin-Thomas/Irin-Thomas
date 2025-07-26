@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Irin Thomas
 
-🎓 MSc in Data Analytics | 💡 Machine Learning & Deep Learning | 📊 Statistical Modelling  
-🧠 AI Applications | 💻 Python & R Enthusiast | 📍 London, UK  
+🎓 MSc in Data Analytics | 💡 Machine Learning & Deep Learning | 📊 Statistical Modelling | 💻 Python & R Enthusiast | 📍 London, UK  
 
 ---
 
