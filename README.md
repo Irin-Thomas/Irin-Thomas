@@ -28,15 +28,15 @@ I bring hands-on experience in:
 
 ## 📚 Featured Projects
 
-### 📌 [HR Attrition Prediction Dashboard](https://github.com/Irin-Thomas/HR-Attrition-Prediction-Dashboard/tree/main)
+### 📌 [HR Attrition Prediction Dashboard](https://github.com/Irin-Thomas/HR-Attrition-Prediction-Dashboard)
 🔧 *Tools: Python, Power BI, Logistic Regression*  
 Built an interactive dashboard to predict employee attrition using logistic regression. Analysed HR data to identify key risk factors and visualised insights in Power BI. Helped inform HR retention strategies through data storytelling.
 
-### 📌 [Portfolio Risk Analysis](https://github.com/Irin-Thomas/Portfolio-Risk-Analysis)
+### 📌 [Portfolio-Risk-Analysis](https://github.com/Irin-Thomas/Portfolio-Risk-Analysis)
 🔧 *Tools: R, Solver, GARCH, Value at Risk (VaR)*  
 Modelled and analysed portfolio risk using GARCH and VaR methods. Optimised asset allocation based on historical volatility. Visualised financial risk to support evidence-based investment decisions.
 
-### 📌 [Big Data Warehouse Design](https://github.com/Irin-Thomas/Inventory-Data-Warehouse-Design)
+### 📌 [Inventory-Data-Warehouse-Design](https://github.com/Irin-Thomas/Inventory-Data-Warehouse-Design)
 🔧 *Tools: Apache Hadoop, ETL*  
 Designed and implemented a scalable big data warehouse. Created ETL pipelines for high-volume data processing, improving analytics performance and enabling faster decision-making for large-scale business operations.
 
@@ -44,11 +44,11 @@ Designed and implemented a scalable big data warehouse. Created ETL pipelines fo
 🔧 *Tools: Python, Random Forest, Decision Tree, K-Means Clustering*  
 Analysed e-commerce clickstream data to predict purchase intent with 87% accuracy. Applied clustering to discover browsing patterns and enhance customer targeting for marketing campaigns.
 
-### 📌 [Marketing Campaign Classifier App](https://github.com/Irin-Thomas/Marketing-Campaign-Customer-Analysis)
+### 📌 [Marketing-Campaign-Customer-Analysis](https://github.com/Irin-Thomas/Marketing-Campaign-Customer-Analysis)
 🔧 *Tools: Python, Logistic Regression, Sentiment Analysis*  
 Built a predictive app that classifies high-value customers from marketing campaign data. Performed data cleaning, feature engineering, and deployed a logistic regression model for real-time scoring.
 
-### 📌 [Statistical Modelling & Forecasting](https://github.com/Irin-Thomas/Statistical-Modelling-and-Forecasting)
+### 📌 [Statistical-Modelling-and-Forecasting](https://github.com/Irin-Thomas/Statistical-Modelling-and-Forecasting)
 🔧 *Tools: R, GAMLSS, LMS, BCCG, BCT*  
 Performed statistical analysis on health datasets. Created BMI models, centile curves for grip strength, and regression models to predict body fat %. Enhanced understanding of growth and health patterns in youth populations.
 
